@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nupur1585.github.io/Medical",
+  "homepage": "https://SahilSthr.github.io/Hospital",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
