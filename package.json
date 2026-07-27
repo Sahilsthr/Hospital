@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://Sahilsthr.github.io/Hospital",
+  
 
   "scripts": {
     "dev": "vite",
